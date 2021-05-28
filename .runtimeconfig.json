@@ -1,0 +1,8 @@
+{
+  "firebase": {
+    "projectId": "sync-up-339a0",
+    "databaseURL": "https://sync-up-339a0.firebaseio.com",
+    "storageBucket": "sync-up-339a0.appspot.com",
+    "locationId": "us-east1"
+  }
+}
